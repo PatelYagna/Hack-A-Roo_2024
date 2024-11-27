@@ -1,0 +1,10 @@
+pydeck==0.8.0
+plotly
+geopandas
+shiny==1.2.0
+shinywidgets==0.3.4
+pandas
+numpy
+scikit-learn
+openpyxl
+xlrd
